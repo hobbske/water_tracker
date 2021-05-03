@@ -1,1 +1,2 @@
-const waterRemaining = document.getElementsByClassName("water-remaining")
+const glasses = document.getElementsByClassName("glasses")
+
